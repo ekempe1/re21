@@ -45,7 +45,9 @@ This file is the complete interview guide for both the technically-oriented and
 policy-oriented options.  It also includes the full coding scheme used in our
 qualitative analysis.
 
-### LICENSE.md
+Future updates to this artifact can be found at Figshare DOI: 10.6084/m9.figshare.14842242
+
+### LICENSE.md 
 
 This file contains the complete text of the Creative Commons By 4.0 license,
 underwhich the guide is licensed.
