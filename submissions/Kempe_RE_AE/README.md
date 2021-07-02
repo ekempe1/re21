@@ -43,7 +43,9 @@ This repository includes the following:
 
 This file is the complete interview guide for both the technically-oriented and
 policy-oriented options.  It also includes the full coding scheme used in our
-qualitative analysis.
+qualitative analysis. 
+
+Future updates to this artifact can be found at Figshare DOI: 10.6084/m9.figshare.14842242.
 
 ### LICENSE.md
 
@@ -57,7 +59,7 @@ This file is the file you are currently reading.
 ### SUBMISSION.md
 
 This file describes the contents of our submission to the RE 2021 Artifact
-Evaluation track.
+Evaluation track. 
 
 ## System Requirements
 
